@@ -160,6 +160,12 @@ div.habilidades p{
 #javaScript {
 	  width: 35%;
 }
+#reactNative {
+	width: 25%;
+}
+#git {
+	width: 41%;
+}
 #office {
 	  width: 88%;
 }
@@ -168,4 +174,7 @@ div.habilidades p{
 }
 #manutencao {
 	  width: 65%;
+}
+li{
+	text-align: left;
 }
