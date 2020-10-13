@@ -84,6 +84,14 @@ ul {
 li {
 	padding-left: 0px;
 }
+img.certificate{
+	float: right;
+	margin-top: -45px;
+}
+img.certificateCursor{
+	float: right;
+	margin-top: -20px;
+}
 /*BARRA LATERAL*/
 aside {
 	margin-right: 10mm;
@@ -118,6 +126,10 @@ i {
 .iconsAwards {
 	display: flex;
 	justify-content: center;
+	margin-left: : 10px;
+	margin-right: 10px;
+}
+div.iconsAwards img {
 	margin: 10px;
 }
 .medals {
